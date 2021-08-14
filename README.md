@@ -7,4 +7,4 @@ This is by far one of my favorite application of Neural Networks.
 
 We have this image of me wearing sunglasses
 
-![alt text](http:///Users/noamyakar/Desktop/download%20(1).png)
+![plot](http:///Users/noamyakar/Desktop/download%20(1).png)
