@@ -2,7 +2,8 @@
 
 This is by far one of my favorite application of Neural Networks. 
 
-*Neural Style Transfer*
+***Neural Style Transfer***
+
 -> An optimization method to take a content image and a style image, and combine the two to make a stylize image... you might not get it at first, here's an example
 
 We have this image of me wearing sunglasses (Content Image), and Van Gogh's most famous painting 'The Starry Night' (Style Image)
