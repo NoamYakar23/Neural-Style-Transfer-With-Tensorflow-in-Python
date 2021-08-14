@@ -7,7 +7,7 @@ This is by far one of my favorite application of Neural Networks.
 
 We have this image of me wearing sunglasses (Content Image), and Van Gogh's most famous painting 'The Starry Night' (Style Image)
 
-![] https://github.com/NoamYakarOfficial/Neural-Style-Transfer-With-Tensorflow-in-Python/blob/75308265d3b8947a392ad8c85e307dcd8762e5eb/sunglasses.png
+![](https://github.com/NoamYakarOfficial/Neural-Style-Transfer-With-Tensorflow-in-Python/blob/75308265d3b8947a392ad8c85e307dcd8762e5eb/sunglasses.png)
 
 With the power of Neural Style Transfer we can create this beautiful combined image
 
