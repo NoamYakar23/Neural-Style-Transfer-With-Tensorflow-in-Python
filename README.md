@@ -7,4 +7,4 @@ This is by far one of my favorite application of Neural Networks.
 
 We have this image of me wearing sunglasses
 
-![Screenshot](download (1).png)
+![Screenshot](https://github.com/NoamYakarOfficial/Neural-Style-Transfer-With-Tensorflow-in-Python/blob/1f5ab78a2a62c1814e056281043e241cdc8d4021/download%20(1).png)
